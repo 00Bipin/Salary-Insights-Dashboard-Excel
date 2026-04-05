@@ -28,10 +28,6 @@ The dataset used for this project contains real-world data science job informati
 - **📍 Locations**
 - **🛠️ Skills**
 
-## Dashboard Build
-
-### 📉 Charts
-
 #### 📊 Data Science Job Salaries - Bar Chart
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
@@ -68,12 +64,6 @@ IF(
 - 🎯 **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
 - **🔢 Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
-🍽️ Background Table
-
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
-
-📉 Dashboard Implementation
-
 #### ⏰ Count of Job Schedule Type
 
 ```
@@ -82,14 +72,6 @@ IF(
 
 - 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
 - **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
-
-🍽️ Background Table
-
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
-
-📉 Dashboard Implementation:
-
-### ❎ Data Validation
 
 #### 🔍 Filtered List
 
